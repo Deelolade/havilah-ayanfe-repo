@@ -8,6 +8,7 @@ const Career = () => {
           <h3>Submit your CV to get employed</h3>
           <p>as a web developer</p>
           <p>as a andriod developer</p>
+          
         </div>
     </div>
   )
