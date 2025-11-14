@@ -1,0 +1,38 @@
+.main{
+    width: 1000px;
+    height: 500px;
+    background-color: brown;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.first-child{
+    background-color: antiquewhite;
+    text-align: center;
+}
+.second-child{
+    text-align: center;
+    background-color: aqua;
+}
+.container{
+    margin: 40px auto;
+    background-color: aqua;
+    text-align: center;
+}
+.increment{
+    border: 1px solid gray;
+    padding: 4px;
+    border-radius: 5px;
+    margin: 30px;
+}
+.decrement{
+border: 1px solid gray;
+    padding: 4px;
+    border-radius: 5px;
+}
+.container h1{
+    font-size: 40px;
+    text-align: center;
+}
