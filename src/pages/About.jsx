@@ -10,7 +10,6 @@ const About = () => {
         <div className="">My name is Jane Smith</div>
         <div className=""> My name is John Doe</div>
         <div className=""> My name is John Doe Smith</div>     
-        
       </div>
     </div>
   )
